@@ -1,9 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# Bitcoin tracker
+# Cryptocurrency tracker
 # Based on the API from coinmarketcap.com (https://api.coinmarketcap.com)
 # Date: 07.07.2018
+# code hosted on https://github.com/makingisfun42/crypto-tracker
+# project website: https://makingisfun42.github.io/crypto-tracker
 
 # Import packages
 import json
