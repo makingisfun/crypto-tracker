@@ -18,4 +18,4 @@
 
 ## How to customize the code
 - change bitcoin = "https://api.coinmarketcap.com/v1/ticker/bitcoin/?convert=USD" or add another value by replacing "bitcoin" with the value you want to track (e.g. to "https://api.coinmarketcap.com/v1/ticker/litecoin/?convert=USD" to track Litecoin)
-- change currency: replace "?convert=USD" e.g. to "?convert=EUR" 
+- change currency: replace "?convert=USD" e.g. to "?convert=EUR" ;-)
